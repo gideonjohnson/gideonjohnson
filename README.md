@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @gideonjohnson
-- 👀 I’m interested in digital advertising and search engine marketing together with SEO among others ...
-- 🌱 I’m currently looking for clients that are ready to boost there sales both locally and on online platforms...
-- 💞️ I’m looking to collaborate on a project with  client whos looking to boost their sales to hire my services ...
-- 📫 How to reach me - gideonbosiregj@gmail.com ...
+👋 Hi there, I’m Gideon 
+🔐 Aspiring Security Engineer | Python Developer | Cybersecurity Enthusiast  
+
+👀 Passionate about building secure systems, analyzing threats, and learning how to protect digital assets.  
+🌱 Currently honing my skills in ethical hacking, network security, and vulnerability assessment using tools like Nmap, Wireshark, Metasploit, and Burp Suite.  
+
+💻 Learning by doing on platforms like TryHackMe and Hack The Box, and working on Python scripts for automation and security testing.  
+🤝 Open to collaborating on cybersecurity projects, research, or CTFs — always looking to grow and learn from others in the field.  
+
+📫 Let’s connect: gideonbosiregj@gmail.com  
 
 <!---
 gideonjohnson/gideonjohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
